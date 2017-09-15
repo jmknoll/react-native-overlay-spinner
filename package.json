@@ -1,0 +1,31 @@
+{
+  "name": "react-native-overlay-spinner",
+  "version": "0.1.0",
+  "description": "lightweight loading spinner for react native",
+  "main": "index.js",
+  "dependencies": {
+    "react-native-loading-spinner-overlay": "^0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmknoll/react-native-overlay-spinner.git"
+  },
+  "keywords": [
+    "react-native",
+    "activity",
+    "indicator",
+    "loading",
+    "spinner",
+    "overlay"
+  ],
+  "author": "jmknoll",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmknoll/react-native-overlay-spinner/issues"
+  },
+  "homepage": "https://github.com/jmknoll/react-native-overlay-spinner#readme"
+}
