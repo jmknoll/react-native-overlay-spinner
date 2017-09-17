@@ -2,7 +2,6 @@
 # React Native Overlay Spinner
 
 [![NPM version][npm-image]][npm-url]
-[![NPM downloads][npm-downloads]][npm-url]
 [![MIT License][license-image]][license-url]
 
 > Lightweight, straightforward, easy-to-use loading spinner for React Native
