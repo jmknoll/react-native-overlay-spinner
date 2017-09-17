@@ -45,7 +45,7 @@ This usage shows the default styles and properties.
 
 1. Fork/clone this repository
 2. Make changes in `src/` directory
-3. Submit a pull request
+3. Submit a pull request (with notes of fixes/improvements)
 
 
 ## Contributors
