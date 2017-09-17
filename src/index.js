@@ -11,7 +11,7 @@ import {
 
 export default class LoadingSpinner extends Component {
   render() {
-    const { color, size, backgroundColor } = this.props
+    const { color, size, backgroundColor, text, textColor, textSize } = this.props
     return(
       <View style={{
         flex: 1,
@@ -29,14 +29,19 @@ export default class LoadingSpinner extends Component {
           size={size}
           style={{ flex: 1 }}
         />
-        <Text>{this.props.loadingText}</Text>
+        <Text style={{
+          color: textColor,
+          fontSize: textSize
+        }}>{text}</Text>
       </View>
     )
   }
 }
 
 LoadingSpinner.defaultProps = {
-  color: 'white',
+  color: '#ffffff',
   size: 'large',
-  backgroundColor: 'rgba(0, 0, 0, 0.25)'
+  backgroundColor: 'rgba(0, 0, 0, 0.25)',
+  textColor: '#ffffff',
+  textSize: 18
 }
