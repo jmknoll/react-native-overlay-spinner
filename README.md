@@ -4,7 +4,7 @@
 [![NPM version][npm-image]][npm-url]
 [![MIT License][license-image]][license-url]
 
-> A lightweight alternative to [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay)
+> A lightweight, easy-to-use alternative to [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay)
 
 
 ## Index
