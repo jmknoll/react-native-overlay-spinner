@@ -1,6 +1,6 @@
 {
   "name": "react-native-overlay-spinner",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "lightweight loading spinner for react native",
   "main": "index.js",
   "dependencies": {},
